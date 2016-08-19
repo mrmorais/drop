@@ -1,0 +1,24 @@
+{
+  "name": "drop",
+  "version": "1.0.0",
+  "description": "A simple, open and easy to deploy blogging platform",
+  "main": "main.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmorais/drop.git"
+  },
+  "keywords": [
+    "blogging",
+    "drop",
+    "manager"
+  ],
+  "author": "Maradona Morais",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/mrmorais/drop/issues"
+  },
+  "homepage": "https://github.com/mrmorais/drop#readme"
+}
