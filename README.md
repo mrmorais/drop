@@ -1,6 +1,6 @@
 # Drop
-![https://gitter.im/orgs/droping/rooms](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat)
-![https://github.com/mrmorais/drop/blob/master/LICENSE](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000?style=flat)
+[![Glitter.im](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat)](https://gitter.im/orgs/droping/rooms)
+[![LICENSE](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000?style=flat)](https://github.com/mrmorais/drop/blob/master/LICENSE)
 
 Drop is a simple, open and easy to deploy CMS for blogs
 
